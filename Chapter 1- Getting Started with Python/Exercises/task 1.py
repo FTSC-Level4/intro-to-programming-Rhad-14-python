@@ -1,0 +1,2 @@
+# Exercise 1: Print strings 
+print("Twinkle, twinkle, little star, \n \t Up above the world so high, \n \t \t  Like the diamond in the sky. \n Twinkle, twinkle little star, \n \t    How I wonder what you are.")
