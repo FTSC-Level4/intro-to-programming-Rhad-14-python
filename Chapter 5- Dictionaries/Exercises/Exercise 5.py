@@ -18,7 +18,7 @@ pet={
     "eats": "grass"
 }
 pets.append(pet)
-pet= {
+pet={
     "animal type": "dog",
     "name": "Hanabi",
     "owner": "Tyler",
